@@ -6,14 +6,22 @@ This is a testing rails app that was built from the ground up to give you a plac
 
 ==Currently Installed==
 
-===Rails Footnotes===
-Author: JoseValim
-Location: GitHub (http://github.com/josevalim/rails-footnotes)
-Version: 3.6.7
+===Nifty-Generator===
+Author: Ryan Bates
+Location: TODO:
+Version: TODO:
 
-If you are developing in Rails you should know the plugin! It displays
-footnotes in your application for easy debugging, such as sessions,
-request parameters, cookies, filter chain, routes, queries, etc.
+Generator that adds some nice features. TODO: FINISH
 
-Even more, it contains links to open files directly in your editor including
-your backtrace lines.
+====INSTALLATION====
+FINISH:TODO
+
+===HAML===
+Author: TODO
+Location: TODO
+Version: TODO
+
+TODO: FINISH
+
+====INSTALLATION====
+TODO:FINISH
